@@ -39,4 +39,3 @@ def checkBST(root):
 #         return checkBST(root.left) and checkBST(root.right)
 #     else:
 #         return False
-
