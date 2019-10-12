@@ -96,3 +96,4 @@ for ch in ip:
    toBeDecoded += code_hidden[ch]
 
 decodeHuff(root, toBeDecoded)
+
